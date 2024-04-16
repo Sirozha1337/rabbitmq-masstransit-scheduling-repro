@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RabbitPublisher", "RabbitPublisher\RabbitPublisher.csproj", "{C4A9FD51-13AB-406B-805B-EF1AD3A6EF31}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RabbitConsumer", "RabbitConsumer\RabbitConsumer.csproj", "{BE0A19FF-E805-45FA-ACDF-7CA38A37A932}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Messages", "Messages\Messages.csproj", "{2F24A461-67C6-49A8-AE77-5ABBC810633C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C4A9FD51-13AB-406B-805B-EF1AD3A6EF31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4A9FD51-13AB-406B-805B-EF1AD3A6EF31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4A9FD51-13AB-406B-805B-EF1AD3A6EF31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4A9FD51-13AB-406B-805B-EF1AD3A6EF31}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE0A19FF-E805-45FA-ACDF-7CA38A37A932}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE0A19FF-E805-45FA-ACDF-7CA38A37A932}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE0A19FF-E805-45FA-ACDF-7CA38A37A932}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE0A19FF-E805-45FA-ACDF-7CA38A37A932}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F24A461-67C6-49A8-AE77-5ABBC810633C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F24A461-67C6-49A8-AE77-5ABBC810633C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F24A461-67C6-49A8-AE77-5ABBC810633C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F24A461-67C6-49A8-AE77-5ABBC810633C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,12 @@
+/packages/
+/**/bin
+/**/obj
+/**/*.user
+/**/*.pubxml
+/**/*.suo
+.vs/
+.idea/
+/**/**/dist/
+/**/data/
+.vscode/
+/**/.npmrc
